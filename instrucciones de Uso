@@ -1,0 +1,21 @@
+ 
+
+Temporal S.A es una compañia de bienes y servicios que actualmente está buscando implementar en su sistema un modulo de ventas online.
+Para esto se requiere que crear un servicio de compras, el cual funcionará a nivel macro, es decir que guardará todas las transacciones generadas dentro de una base de datos.
+Cada usuario podrá comprar uno o varios articulos, cada articulo estará asociados a un carrito de compras por usuario. Además se requiere poder consultar las compras con la cédula del usuario.
+
+Tips:
+
+1-Crear una bd con una tabla para cada entidad identificada en el enunciado, definir la cardinalidad entre ellas.
+2-Crear un web service que devuelva el carrito de compras del usuario que le envíe por parametro (Aplicar Patrón MVC).
+
+Obligatorio
+
+SQLServer
+NET Core
+Entity framework core
+
+Se brinda solucion generando codigo con mvc .net, entity framework, razor y en general utilizando sql server como base de datos y adicional al desarrollo se hace 
+inclucion de un codigo de ejemplo de carrito de compras el cual he estudiado para guiarme para dicho proceso, en udemy.
+
+enlace de Onedrive donde se encuentran los fuentes: https://1drv.ms/u/s!AloilOCr9TT2nlCEB6BGfQQXkNn8?e=bkEClf
